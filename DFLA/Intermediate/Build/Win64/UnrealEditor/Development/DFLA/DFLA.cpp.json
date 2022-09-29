@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\nacho\\documents\\github\\dfla\\dfla\\source\\dfla\\dfla.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\nacho\\documents\\github\\dfla\\dfla\\intermediate\\build\\win64\\dflaeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\nacho\\documents\\github\\dfla\\dfla\\intermediate\\build\\win64\\unrealeditor\\development\\dfla\\definitions.dfla.h",
+            "c:\\users\\nacho\\documents\\github\\dfla\\dfla\\source\\dfla\\dfla.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

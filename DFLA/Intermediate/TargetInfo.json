@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DFLA",
+			"Path": "C:\\Users\\Nacho\\Documents\\GitHub\\DFLA\\DFLA\\Source\\DFLA.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DFLAEditor",
+			"Path": "C:\\Users\\Nacho\\Documents\\GitHub\\DFLA\\DFLA\\Source\\DFLAEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

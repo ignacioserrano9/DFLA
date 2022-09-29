@@ -1,0 +1,34 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\nacho\\documents\\github\\dfla\\dfla\\source\\dfla\\tp_weaponcomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\nacho\\documents\\github\\dfla\\dfla\\intermediate\\build\\win64\\dflaeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\nacho\\documents\\github\\dfla\\dfla\\intermediate\\build\\win64\\unrealeditor\\development\\dfla\\definitions.dfla.h",
+            "c:\\users\\nacho\\documents\\github\\dfla\\dfla\\source\\dfla\\tp_weaponcomponent.h",
+            "c:\\users\\nacho\\documents\\github\\dfla\\dfla\\intermediate\\build\\win64\\unrealeditor\\inc\\dfla\\tp_weaponcomponent.generated.h",
+            "c:\\users\\nacho\\documents\\github\\dfla\\dfla\\source\\dfla\\dflacharacter.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
+            "c:\\users\\nacho\\documents\\github\\dfla\\dfla\\intermediate\\build\\win64\\unrealeditor\\inc\\dfla\\dflacharacter.generated.h",
+            "c:\\users\\nacho\\documents\\github\\dfla\\dfla\\source\\dfla\\dflaprojectile.h",
+            "c:\\users\\nacho\\documents\\github\\dfla\\dfla\\intermediate\\build\\win64\\unrealeditor\\inc\\dfla\\dflaprojectile.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\kismetsystemlibrary.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\dialoguetypes.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gameplaystaticstypes.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gameplaystatics.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
