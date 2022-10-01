@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "DFLAEditor Editor Win64 Development (DFLA)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\Nacho\\Documents\\GitHub\\DFLA\\DFLA\\.vscode\\compileCommands_DFLA.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\Nacho\\Documents\\GitHub\\DFLA\\DFLA\\.vscode\\compileCommands_Default.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
