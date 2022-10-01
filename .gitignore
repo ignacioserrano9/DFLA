@@ -1,10 +1,6 @@
 # Visual Studio 2015 user specific files
 .vs/
 
-# Content is a onedrive folder doue to size
-
-Content/
-
 # Compiled Object files
 *.slo
 *.lo
